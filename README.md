@@ -2,12 +2,6 @@
 
 A comprehensive Linux curriculum designed for experienced developers transitioning to Linux system mastery.
 
-## Prerequisites
-- 4+ years of Linux usage experience
-- Software development background
-- Familiarity with command line basics
-- Ubuntu 24 LTS installed
-
 ## Learning Path Overview
 
 ### Section 1: System Architecture & Boot Process
